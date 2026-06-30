@@ -104,17 +104,18 @@ Originally designed for **BHEL Haridwar Township**, LokLink can easily be adapte
 # 📸 Screenshots
 
 ![HomePage](assets/screenshots/HomePage.png "Landing Page")
-![CommunityFeed](assets/screenshots/CommunityFeed.png "Community Feed")
-![LostAndFound](assets/screenshots/LostAndFound.png "Lost & Found")
+![LoginPage] (assets/screenshots/Login.png "Login Page")
+![CommunityFeed](assets/screenshots/Community.png "Community Feed")
+![LostAndFound](assets/screenshots/LostnFound.png "Lost & Found")
 ![Marketplace](assets/screenshots/Marketplace.png "Marketplace")
-![CommunityUpdates](assets/screenshots/CommunityUpdates.png "Community Updates")
+![CommunityUpdates](assets/screenshots/Updates.png "Community Updates")
 ![Events](assets/screenshots/Events.png "Events")
 ![Messenger](assets/screenshots/Messenger.png "Messenger")
 ![Clubs](assets/screenshots/Clubs.png "Clubs")
 ![Emergency](assets/screenshots/Emergency.png "Emergency Contacts")
 ![Navigation](assets/screenshots/Navigation.png "Navigation")
 ![Profile](assets/screenshots/Profile.png "User Profile")
-![AdminDashboard](assets/screenshots/AdminDashboard.png "Admin Dashboard")
+![AdminDashboard](assets/screenshots/Admin.png "Admin Dashboard")
 
 ---
 
