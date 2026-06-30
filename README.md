@@ -103,41 +103,18 @@ Originally designed for **BHEL Haridwar Township**, LokLink can easily be adapte
 
 # 📸 Screenshots
 
-(Add screenshots after deployment.)
-
----
-
-# 🚀 Getting Started
-
-Clone the repository
-
-```bash
-git clone https://github.com/Mkjha101/LokLink.git
-```
-
-Move into project
-
-```bash
-cd LokLink
-```
-
-Install dependencies
-
-```bash
-npm install
-```
-
-Run locally
-
-```bash
-npm run dev
-```
-
-Open
-
-```
-http://localhost:8080
-```
+![HomePage](assets/screenshots/HomePage.png "Landing Page")
+![CommunityFeed](assets/screenshots/CommunityFeed.png "Community Feed")
+![LostAndFound](assets/screenshots/LostAndFound.png "Lost & Found")
+![Marketplace](assets/screenshots/Marketplace.png "Marketplace")
+![CommunityUpdates](assets/screenshots/CommunityUpdates.png "Community Updates")
+![Events](assets/screenshots/Events.png "Events")
+![Messenger](assets/screenshots/Messenger.png "Messenger")
+![Clubs](assets/screenshots/Clubs.png "Clubs")
+![Emergency](assets/screenshots/Emergency.png "Emergency Contacts")
+![Navigation](assets/screenshots/Navigation.png "Navigation")
+![Profile](assets/screenshots/Profile.png "User Profile")
+![AdminDashboard](assets/screenshots/AdminDashboard.png "Admin Dashboard")
 
 ---
 
