@@ -30,3 +30,15 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Environment files
+.env
+.env.*
+
+# OS
+Thumbs.db
+
+# Python (since I noticed your terminal is using a virtual environment)
+.venv/
+__pycache__/
+*.pyc
